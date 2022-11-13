@@ -1602,7 +1602,7 @@ MonoBehaviour:
     picture:
     - {fileID: 21300000, guid: c81ec7d9f675a274a9edb3db1f2b3f89, type: 3}
     - {fileID: 21300000, guid: 7b96c985825332e4693dd5609eda5a45, type: 3}
-    - {fileID: 21300000, guid: f0bd4452b35262849afd18649b4d68bc, type: 3}
+    - {fileID: 21300000, guid: d495046b84733b84a8138a217ea21824, type: 3}
   - Question: Item can be used to light a fire?
     Answers:
     - Candle
