@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ae602a694c98b994abc5e42923f82017
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bobby Rough Soft
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c84384cc3cb69124fb490dd61a6ca5fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
